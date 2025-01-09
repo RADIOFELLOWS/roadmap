@@ -3,7 +3,9 @@
 ## In Progress
 
 CURRENTLY in RESEARCH PHASE
+- Make Manifesto
 - Curate list of vetted (by RADIOFELLOWS) tools for Awesome-RF
+  - Make Criterias for vetting programs
 - List of tools to avoid for Awesome-RF
 
 ## Ideas
